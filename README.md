@@ -14,7 +14,7 @@ cd scanip
 ```
 nano scanip.sh
 ```
-Change value of target_ip enclosed in single quotes
+Change value of target_ip enclosed in single quotes and save the file
 
 ### Step 3:
 ```
