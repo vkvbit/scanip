@@ -5,19 +5,21 @@ A bash script to scan a IP address with different tools.
 
 ### Step 1:
 ```
-sudo apt-get install -y 
+sudo apt-get install -y nikto
 git clone https://github.com/vkvbit/scanip.git
 cd scanip
 ```
 
 ### Step 2:
+
+```
+chmod a+x scanip.sh
+./scanip.sh
+```
+
+### Step 3:
 ```
 nano scanip.sh
 ```
 Change value of target_ip enclosed in single quotes and save the file
 
-### Step 3:
-```
-chmod a+x scanip.sh
-./scanip.sh
-```
