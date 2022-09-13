@@ -14,7 +14,6 @@ cd scanip
 
 ```
 chmod a+x scanip.sh
-./scanip.sh
 ```
 
 ### Step 3:
@@ -23,3 +22,7 @@ nano scanip.sh
 ```
 Change value of target_ip enclosed in single quotes and save the file
 
+### Step 4:
+```
+./scanip.sh
+```
