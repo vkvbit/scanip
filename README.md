@@ -6,6 +6,7 @@ A bash script to scan a IP address with different tools.
 ### Step 1:
 ```
 sudo apt-get install -y nikto
+pip3 install aort
 git clone https://github.com/vkvbit/scanip.git
 cd scanip
 ```
